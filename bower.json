@@ -1,0 +1,23 @@
+{
+  "name": "test_wc",
+  "description": "This is a test webcomponent with polyserve",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Polymer",
+    "Polyserve"
+  ],
+  "authors": [
+    "T.D.N.Chathuranga"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
